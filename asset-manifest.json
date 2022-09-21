@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maxelbo/robofriends.git/static/css/main.f75379ad.css",
+    "main.js": "/maxelbo/robofriends.git/static/js/main.58518fbf.js",
+    "static/js/787.32032a02.chunk.js": "/maxelbo/robofriends.git/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/maxelbo/robofriends.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/maxelbo/robofriends.git/index.html",
+    "main.f75379ad.css.map": "/maxelbo/robofriends.git/static/css/main.f75379ad.css.map",
+    "main.58518fbf.js.map": "/maxelbo/robofriends.git/static/js/main.58518fbf.js.map",
+    "787.32032a02.chunk.js.map": "/maxelbo/robofriends.git/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f75379ad.css",
+    "static/js/main.58518fbf.js"
+  ]
+}
